@@ -1,0 +1,10 @@
+.box {
+  border: 2px solid rgb(164, 167, 167);
+  width: max-content;
+  display: flex;
+  flex-wrap: wrap;
+}
+.text {
+  margin-left: 10px;
+  margin-right: 10px;
+}

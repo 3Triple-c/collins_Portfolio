@@ -1,0 +1,22 @@
+.about-header {
+  margin-left: 3rem;
+  margin-bottom: 3rem;
+
+}
+.skills-container--about {
+  display: grid;
+  flex-wrap: wrap;
+  grid-template-columns: repeat(5, 0fr);
+  gap: 1rem;
+  margin-top: 3rem;
+  margin-left: 1rem;
+}
+.fun-facts-container {
+  display: grid;
+  flex-wrap: wrap;
+  grid-template-columns: repeat(2, 0fr);
+  gap: 1rem;
+  margin-top: 3rem;
+  margin-left: 0;
+  max-width: 500px;
+}

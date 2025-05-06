@@ -1,0 +1,25 @@
+
+.skills-box {
+  width: max-content;
+  border: 1px solid #e6e6e6;
+  padding: 1rem;
+  overflow: hidden;
+  border-radius: 4px;
+  position: relative;
+  max-height:max-content ;
+}
+.skills-box h3 {
+  width:max-content;
+  font-size: 1rem;
+  padding-bottom: 0.2rem;
+  margin-right: 5rem;
+  /* height: 200px; */
+}
+.skills-box h3::after {
+  content: "";
+  width: 500px;
+  border-top: 2px solid rgb(164, 167, 167);
+  top: 2.5em;
+  left: -1.5em;
+  position: absolute;
+}

@@ -1,0 +1,12 @@
+.media-header {
+  margin-left: 3rem;
+  margin-top: 2rem;
+}
+/* .media-title {
+} */
+.social-media {
+  display: flex;
+  margin-top: 1em;
+  align-items: center;
+  gap: 10px;
+}

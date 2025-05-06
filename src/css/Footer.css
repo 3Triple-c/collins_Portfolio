@@ -1,0 +1,45 @@
+.footer-line {
+  flex: 1;
+  height: 1.4px;
+  background-color: #7a7a7a;
+}
+.footer-footer {
+  color: #7a7a7a;
+}
+.footer {
+  width: 90%;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-content1 {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  /* color: red; */
+  margin: 2em;
+}
+.footer-content2 {
+  display: flex;
+  justify-content: space-between;
+  /* color: red; */
+  margin: 2em;
+  flex-direction: column;
+}
+.footer-icons {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  /* gap: 10px; */
+}
+.footer-gmail {
+  margin-left: 0;
+  display: flex;
+  align-items: center;
+}
+.footer-bottom {
+  text-align: center;
+}
