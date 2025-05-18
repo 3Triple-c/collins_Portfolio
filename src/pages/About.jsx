@@ -61,7 +61,7 @@ function About() {
           </p>
         </p>
 
-        <img src="/images/image3.jpg" alt="profile" className="about-pic" />
+        <img src="./images/image3.jpg" alt="profile" className="about-pic" />
       </div>
       <div className="skills-section">
         <div class="skills-top">

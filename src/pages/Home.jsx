@@ -13,7 +13,7 @@ function Home() {
       title: "Portfolio",
       description: "tells you about me",
       languages: "react,javascript,css,html",
-      Image: <img src="/images/portfolio.png" className="project-pic" />,
+      Image: <img src="./images/portfolio.png" className="project-pic" />,
       url: "",
     },
     {
@@ -21,7 +21,7 @@ function Home() {
       title: "binary",
       description: "helps you toconvert decimal to binary",
       languages: "react,javascript,css,html",
-      Image: <img src="/images/binary.png" className="project-pic" />,
+      Image: <img src="./images/binary.png" className="project-pic" />,
       url: "https://3triple-c.github.io/base-convert/",
     },
     {
@@ -29,7 +29,7 @@ function Home() {
       title: "calculator",
       description: "calculate anything",
       languages: "react,javascript,css,html",
-      Image: <img src="/images/calculator.png" className="project-pic" />,
+      Image: <img src="./images/calculator.png" className="project-pic" />,
       url: "https://3triple-c.github.io/mini_calcula/",
     },
     {
@@ -37,7 +37,7 @@ function Home() {
       title: "quickSolveX",
       description: "calculate anything",
       languages: "javascript,css,html",
-      Image: <img src="/images/quicksolve.png" className="project-pic" />,
+      Image: <img src="./images/quicksolve.png" className="project-pic" />,
       url: "3triple-c.github.io/base-convert/",
     },
   ];
@@ -52,7 +52,7 @@ function Home() {
     },
     {
       title: "Dev Tools",
-      languages: ["Git", "VS Code",],
+      languages: ["Git", "VS Code"],
     },
   ];
   return (
@@ -72,7 +72,7 @@ function Home() {
         </div>
 
         <div>
-          <img src="/images/image4.jpg" alt="profile" className="profile1" />
+          <img src="./images/image4.jpg" alt="profile" className="profile1" />
           <div className="current-status">
             <div className="smallbox"></div>
             currently working on<span className="current">Portiflio</span>
@@ -153,7 +153,7 @@ function Home() {
             </Link>
           </p>
 
-          <img src="/images/image3.jpg" alt="profile" className="about-pic" />
+          <img src="./images/image3.jpg" alt="profile" className="about-pic" />
         </div>
       </section>
       <section className="contact-section">

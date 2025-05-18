@@ -6,7 +6,7 @@ function Works() {
       title: "Portfolio",
       description: "tells you about me",
       languages: "react,javascript,css,html",
-      Image: <img src="/images/portfolio.png" className="project-pic" />,
+      Image: <img src="./images/portfolio.png" className="project-pic" />,
       url: "https://3triple-c.github.io/base-convert/",
     },
     {
@@ -14,7 +14,7 @@ function Works() {
       title: "binary",
       description: "helps you toconvert decimal to binary",
       languages: "react,javascript,css,html",
-      Image: <img src="/images/binary.png" className="project-pic" />,
+      Image: <img src="./images/binary.png" className="project-pic" />,
       url: "https://3triple-c.github.io/base-convert/",
     },
     {
@@ -22,7 +22,7 @@ function Works() {
       title: "calculator",
       description: "calculate anything",
       languages: "react,javascript,css,html",
-      Image: <img src="/images/calculator.png" className="project-pic" />,
+      Image: <img src="./images/calculator.png" className="project-pic" />,
       url: "https://3triple-c.github.io/base-convert/",
     },
     {
@@ -30,7 +30,7 @@ function Works() {
       title: "quickSolveX",
       description: "calculate anything",
       languages: "javascript,css,html",
-      Image: <img src="/images/quicksolve.png" className="project-pic" />,
+      Image: <img src="./images/quicksolve.png" className="project-pic" />,
       url: "https://3triple-c.github.io/base-convert/",
     },
     {
@@ -38,7 +38,7 @@ function Works() {
       title: "binary",
       description: "helps you toconvert decimal to binary",
       languages: "react,javascript,css,html",
-      Image: <img src="/images/image4.jpg" className="project-pic" />,
+      Image: <img src="./images/image4.jpg" className="project-pic" />,
       url: "https://3triple-c.github.io/base-convert/",
     },
     {
@@ -46,7 +46,7 @@ function Works() {
       title: "calculator",
       description: "calculate anything",
       languages: "react,javascript,css,html",
-      Image: <img src="/images/image4.jpg" className="project-pic" />,
+      Image: <img src="./images/image4.jpg" className="project-pic" />,
       url: "https://3triple-c.github.io/base-convert/",
     },
     {
@@ -54,7 +54,7 @@ function Works() {
       title: "quickSolveX",
       description: "calculate anything",
       languages: "javascript,css,html",
-      Image: <img src="/images/image2.jpg" className="project-pic" />,
+      Image: <img src="./images/image2.jpg" className="project-pic" />,
       url: "https://3triple-c.github.io/base-convert/",
     },
   ];
